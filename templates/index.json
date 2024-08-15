@@ -45,6 +45,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/sc6_img_museum_1_r1.jpg",
+        "image_2": "shopify:\/\/shop_images\/sc6_img_museum_4.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
