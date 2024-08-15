@@ -29,8 +29,8 @@
         "button_pimthG": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Find Parts Now",
+            "button_link": "shopify:\/\/collections",
             "button_style_secondary": false
           }
         }
