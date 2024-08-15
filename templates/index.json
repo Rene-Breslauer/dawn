@@ -53,18 +53,6 @@
           "settings": {
             "collection": "the-jaguar-store"
           }
-        },
-        "featured_collection_gBfrBQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_dcdWEn": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
@@ -74,15 +62,13 @@
         "featured_collection_xB6GPx",
         "featured_collection_DMLNAx",
         "featured_collection_EUdMUQ",
-        "featured_collection_GK7kpz",
-        "featured_collection_gBfrBQ",
-        "featured_collection_dcdWEn"
+        "featured_collection_GK7kpz"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "Shop By Model",
         "heading_size": "h1",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "1",
