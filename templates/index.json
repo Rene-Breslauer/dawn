@@ -9,6 +9,54 @@
 */
 {
   "sections": {
+    "image_banner_JPBzrU": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_F7cFhH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pocher models aren’t toys, they’re a lifestyle",
+            "heading_size": "h1"
+          }
+        },
+        "text_enaPjx": {
+          "type": "text",
+          "settings": {
+            "text": "We supply aftermarket Pocher parts of unsurpassed quality, so you canpursue your passion at a larger scale",
+            "text_style": "body"
+          }
+        },
+        "buttons_8MFM8h": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_F7cFhH",
+        "text_enaPjx",
+        "buttons_8MFM8h"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sc6_img_museum_1_r1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image_with_text_b6YDPf": {
       "type": "image-with-text",
       "blocks": {
@@ -154,6 +202,7 @@
     }
   },
   "order": [
+    "image_banner_JPBzrU",
     "image_with_text_b6YDPf",
     "collection_list_NEbLyT"
   ]
