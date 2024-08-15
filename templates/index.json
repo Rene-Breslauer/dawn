@@ -53,6 +53,30 @@
           "settings": {
             "collection": "the-jaguar-store"
           }
+        },
+        "featured_collection_VGEqU7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "the-tool-shop"
+          }
+        },
+        "featured_collection_jT38R3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tire-wheel-store"
+          }
+        },
+        "featured_collection_8QGpjk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "small-parts-hardware"
+          }
+        },
+        "featured_collection_aDCqc9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "books-cds"
+          }
         }
       },
       "block_order": [
@@ -62,7 +86,11 @@
         "featured_collection_xB6GPx",
         "featured_collection_DMLNAx",
         "featured_collection_EUdMUQ",
-        "featured_collection_GK7kpz"
+        "featured_collection_GK7kpz",
+        "featured_collection_VGEqU7",
+        "featured_collection_jT38R3",
+        "featured_collection_8QGpjk",
+        "featured_collection_aDCqc9"
       ],
       "settings": {
         "title": "Shop By Collection",
